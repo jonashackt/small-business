@@ -40,3 +40,7 @@ templates: https://www.squarespace.com/templates?skipSurvey
 ## Others
 
 Hostinger Website Builder: seems to be crap https://www.reddit.com/r/Hostinger/comments/1dahc3m/hostinger_website_builders_are_terrible/
+
+### Google Analytics ohne Cookies
+
+https://www.stetic.com
