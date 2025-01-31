@@ -2,10 +2,15 @@
 Figuring out great and easy ways to support the start of a small business with website, group eMail, Calendar & mini-CRM, domain etc.
 
 
-https://www.sitebuilderreport.com/best-website-builder
+# domain registration
+
+namecheap.com is affordable and can be customized to your needs
+
 
 
 # website-hosting
+
+https://www.sitebuilderreport.com/best-website-builder
 
 ## One-page Templates & Website Hosting 
 
