@@ -44,3 +44,18 @@ Hostinger Website Builder: seems to be crap https://www.reddit.com/r/Hostinger/c
 ### Google Analytics ohne Cookies
 
 https://www.stetic.com
+
+
+
+# Group eMail, Calendar and Mini-CRM (Contacts)
+
+https://www.hostinger.com/tutorials/small-business-email-hosting
+
+## Zoho
+
+~1€/Month/user
+
+https://www.zoho.com/mail/zohomail-pricing.html
+
+Really good for the price
+
