@@ -1,10 +1,11 @@
-# website-hosting
-Figuring out great and easy ways to start a website
+# small-business
+Figuring out great and easy ways to support the start of a small business with website, group eMail, Calendar & mini-CRM, domain etc.
 
 
 https://www.sitebuilderreport.com/best-website-builder
 
 
+# website-hosting
 
 ## One-page Templates & Website Hosting 
 
