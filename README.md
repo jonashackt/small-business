@@ -65,3 +65,35 @@ https://www.zoho.com/mail/zohomail-pricing.html
 
 Really good for the price
 
+
+
+# GPS editor and GPX file hosting
+
+Sadly Development of Garmin Basecamp [has been discontinue](https://forums.garmin.com/de/apps-und-software/mac-windows-software/f/garmin-basecamp-windows/10766/basecamp-weiterentwicklung-gestoppt/62383).
+
+Garmin itself recommends using [Garmin Explore](https://explore.garmin.com), kind of an online version of Basecamp - but with not as nearly the features that Basecamp provides.
+
+
+## Alternatives to Garmin Basecamp & Explore
+
+A simple look after alternatives https://alternativeto.net/software/garmin-basecamp/ and other forums brought me to the two most promising candidates:
+
+1.) https://www.locusmap.app
+
+10-24€/y, also based on Mapbox
+
+Great Apps for iOS and Android, good Web-App for planning: https://web.locusmap.app/en - but high learning curve, not as intuitive 
+
+2.) https://gpx.studio
+
+OpenSource! https://github.com/gpxstudio/gpx.studio Beautifully build, based on Mapbox GL JS, OSM
+
+WebApp only https://gpx.studio/app - but really intuitive, Strg-Z works :) 
+
+
+## Idea: Separate GPX-Editor & Planner from the GPX-file database
+
+We can use an Editor - and host the files on Dropbox/GoogleDrive etc.
+
+
+
